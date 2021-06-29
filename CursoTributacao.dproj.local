@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/05 15:26:24.000.115,=C:\Users\fernando.tenorio\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/10/05 16:06:52.000.867,C:\Users\fernando.tenorio\Documents\RAD Studio\Projects\Unit2.dfm=C:\Desenvolvimento\Dotenorio\Main.dfm</Transaction>
+    <Transaction>2017/10/05 16:06:52.000.867,C:\Users\fernando.tenorio\Documents\RAD Studio\Projects\Unit2.pas=C:\Desenvolvimento\Dotenorio\Main.pas</Transaction>
+    <Transaction>2017/10/05 16:07:06.000.134,C:\Users\fernando.tenorio\Documents\RAD Studio\Projects\Project2.dproj=C:\Desenvolvimento\Dotenorio\EAD\CursoTributacao.dproj</Transaction>
+    <Transaction>2017/10/05 16:07:44.000.487,C:\Desenvolvimento\Dotenorio\Main.pas=C:\Desenvolvimento\Dotenorio\EAD\Main.pas</Transaction>
+    <Transaction>2017/10/05 16:07:44.000.487,C:\Desenvolvimento\Dotenorio\Main.dfm=C:\Desenvolvimento\Dotenorio\EAD\Main.dfm</Transaction>
+    <Transaction>2017/10/05 16:09:55.000.013,=C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas</Transaction>
+    <Transaction>2017/10/05 16:10:02.000.579,C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas=C:\Desenvolvimento\Dotenorio\EAD\Empresa.pas</Transaction>
+    <Transaction>2017/10/05 16:10:02.000.579,C:\Desenvolvimento\Dotenorio\EAD\Unit1.dfm=C:\Desenvolvimento\Dotenorio\EAD\Empresa.dfm</Transaction>
+    <Transaction>2017/10/09 11:03:42.000.752,C:\Desenvolvimento\Dotenorio\EAD\Empresa.dfm=C:\Desenvolvimento\Dotenorio\EAD\Clientes.dfm</Transaction>
+    <Transaction>2017/10/09 11:03:42.000.752,C:\Desenvolvimento\Dotenorio\EAD\Empresa.pas=C:\Desenvolvimento\Dotenorio\EAD\Clientes.pas</Transaction>
+    <Transaction>2017/10/09 11:11:17.000.878,=C:\Desenvolvimento\Dotenorio\EAD\Empresa.pas</Transaction>
+    <Transaction>2017/10/09 20:14:38.000.577,=C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas</Transaction>
+    <Transaction>2017/10/09 20:14:47.000.787,C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas=C:\Desenvolvimento\Dotenorio\EAD\Produtos.pas</Transaction>
+    <Transaction>2017/10/09 20:16:07.000.058,=C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas</Transaction>
+    <Transaction>2017/10/09 20:16:28.000.064,C:\Desenvolvimento\Dotenorio\EAD\Produtos.pas=</Transaction>
+    <Transaction>2017/10/09 20:16:33.000.918,C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas=C:\Desenvolvimento\Dotenorio\EAD\Produtos.pas</Transaction>
+    <Transaction>2017/10/09 20:16:33.000.918,C:\Desenvolvimento\Dotenorio\EAD\Unit1.dfm=C:\Desenvolvimento\Dotenorio\EAD\Produtos.dfm</Transaction>
+    <Transaction>2017/10/11 09:08:55.000.427,=C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas</Transaction>
+    <Transaction>2017/10/11 09:10:11.000.367,C:\Desenvolvimento\Dotenorio\EAD\Unit1.dfm=C:\Desenvolvimento\Dotenorio\EAD\ParametrosNota.dfm</Transaction>
+    <Transaction>2017/10/11 09:10:11.000.366,C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas=C:\Desenvolvimento\Dotenorio\EAD\ParametrosNota.pas</Transaction>
+    <Transaction>2017/10/11 15:21:02.000.991,=C:\Desenvolvimento\Dotenorio\EAD\SelecionaCliente.pas</Transaction>
+    <Transaction>2017/10/11 16:31:23.000.861,=C:\Desenvolvimento\Dotenorio\EAD\SelecionaProdutos.pas</Transaction>
+    <Transaction>2017/10/16 15:26:17.000.643,C:\Desenvolvimento\Dotenorio\EAD\SelecionaProduto.dfm=C:\Desenvolvimento\Dotenorio\EAD\SelecionaProdutos.dfm</Transaction>
+    <Transaction>2017/10/16 15:26:17.000.643,C:\Desenvolvimento\Dotenorio\EAD\SelecionaProduto.pas=C:\Desenvolvimento\Dotenorio\EAD\SelecionaProdutos.pas</Transaction>
+    <Transaction>2017/10/16 15:28:21.000.247,C:\Desenvolvimento\Dotenorio\EAD\SelecionaProdutos.dfm=C:\Desenvolvimento\Dotenorio\EAD\SelecionaProduto.dfm</Transaction>
+    <Transaction>2017/10/16 15:28:21.000.247,C:\Desenvolvimento\Dotenorio\EAD\SelecionaProdutos.pas=C:\Desenvolvimento\Dotenorio\EAD\SelecionaProduto.pas</Transaction>
+    <Transaction>2017/10/16 15:34:46.000.806,=C:\Desenvolvimento\Dotenorio\EAD\ParametrosProdutos.pas</Transaction>
+    <Transaction>2017/10/26 16:52:58.000.516,C:\Desenvolvimento\Dotenorio\EAD\Empresa.pas=</Transaction>
+    <Transaction>2017/10/26 16:53:04.000.060,C:\Desenvolvimento\Dotenorio\EAD\Clientes.pas=</Transaction>
+    <Transaction>2017/10/27 08:36:03.000.192,=C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas</Transaction>
+    <Transaction>2017/10/27 08:36:35.000.208,C:\Desenvolvimento\Dotenorio\EAD\Unit1.dfm=C:\Desenvolvimento\Dotenorio\EAD\DataModule.dfm</Transaction>
+    <Transaction>2017/10/27 08:36:35.000.208,C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas=C:\Desenvolvimento\Dotenorio\EAD\DataModule.pas</Transaction>
+    <Transaction>2017/11/03 09:13:28.677,C:\Desenvolvimento\Dotenorio\EAD\Produtos.pas=</Transaction>
+    <Transaction>2017/11/03 10:10:24.784,C:\Desenvolvimento\Dotenorio\EAD\SelecionaCliente.pas=</Transaction>
+    <Transaction>2017/11/03 10:10:31.400,C:\Desenvolvimento\Dotenorio\EAD\ParametrosNota.pas=</Transaction>
+    <Transaction>2017/11/03 10:10:31.481,C:\Desenvolvimento\Dotenorio\EAD\ParametrosProdutos.pas=</Transaction>
+    <Transaction>2017/11/03 10:10:31.487,C:\Desenvolvimento\Dotenorio\EAD\SelecionaProdutos.pas=</Transaction>
+    <Transaction>2017/11/06 10:40:39.922,=C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas</Transaction>
+    <Transaction>2017/11/06 10:41:06.149,C:\Desenvolvimento\Dotenorio\EAD\Venda.pas=C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas</Transaction>
+    <Transaction>2017/11/06 10:41:22.602,C:\Desenvolvimento\Dotenorio\EAD\Venda.pas=</Transaction>
+    <Transaction>2017/11/06 10:41:51.115,=C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas</Transaction>
+    <Transaction>2017/11/06 10:47:14.098,C:\Desenvolvimento\Dotenorio\EAD\Venda.pas=C:\Desenvolvimento\Dotenorio\EAD\Unit1.pas</Transaction>
+    <Transaction>2017/11/06 10:47:14.098,C:\Desenvolvimento\Dotenorio\EAD\Venda.dfm=C:\Desenvolvimento\Dotenorio\EAD\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
